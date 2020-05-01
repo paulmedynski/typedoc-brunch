@@ -1,0 +1,38 @@
+{
+  "name": "typedoc-brunch",
+  "version": "0.9.1",
+  "description": "A TypeDoc plugin for Brunch to generate documentation for TypeScript projects.",
+  "author": {
+    "name": "Paul Medynski",
+    "email": "npm@healthybytes.ca"
+  },
+  "homepage": "https://github.com/paulmedynski/typedoc-brunch",
+  "repository": {
+    "type": "git",
+    "url": "paulmedynski/typedoc-brunch"
+  },
+  "bugs": {
+    "url": "https://github.com/paulmedynski/typedoc-brunch/issues",
+    "email": "typedoc-brunch@healthybytes.ca"
+  },
+  "keywords": [
+    "brunch",
+    "typedoc",
+    "typescript"
+  ],
+  "license": "MIT",
+  "main": "plugin.js",
+  "files": [
+    "plugin.js"
+  ],
+  "devDependencies": {
+    "debug": "^4.1.0",
+    "jasmine": "^3.5.0",
+    "typedoc": "^0.17.6",
+    "typescript": "^3.8.3"
+  },
+  "peerDependencies": {
+    "brunch": "^3",
+    "typedoc": "^0.17.6"
+  }
+}

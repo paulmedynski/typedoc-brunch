@@ -1,2 +1,2 @@
 # typedoc-brunch
-A TypeDoc plugin for Bruch to generate documentation for TypeScript projects
+A TypeDoc plugin for Brunch to generate documentation for TypeScript projects
